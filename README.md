@@ -21,3 +21,9 @@ EVs.
 manage and operate electric vehicle charging stations. They need a platform 
 to manage station availability, receive reservation requests, monitor charging 
 activity, and collect payments.
+
+# Run the dev web application:
+cd frontend
+
+# Usage 🌿
+Once the application is running, open your web browser and navigate to http://localhost:5173/.
