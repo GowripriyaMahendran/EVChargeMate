@@ -28,7 +28,7 @@ manage and operate electric vehicle charging stations. They need a platform
 to manage station availability, receive reservation requests, monitor charging 
 activity, and collect payments.
 
-# Run the dev web application:💡
+# Run the dev web application💡
 once go to the desired path where our project is stored.Then in Terminal:
 cd frontend
 npm run dev
