@@ -1,3 +1,9 @@
+![Screenshot (617)](https://github.com/GowripriyaMahendran/EVChargeMate/assets/140893570/b00cd9eb-99cc-4fac-abc9-7c1c5e5b64e2)
+
+
+
+
+
 # EVChargeMate 🛵- Slot Reservation & More
 EVChargeMate is a Full Stack Web Development project focused on managing and  optimizing electric vehicle charging stations. The application aims to streamline the  process of reserving charging slots and providing additional features to enhance the  overall user experience in electric vehicle charging.
 
